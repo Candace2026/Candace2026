@@ -1,5 +1,5 @@
 --Using public data provided by the Small Business Association (SBA), we calculate how many HUBZone businesses received PPP loans of >$150K
---Spaces added between statements readability
+--Spaces added between statements for increased readability
 
 SELECT Hubzone_Indicator, 
 --Count the number of loans received by HUBZone businesses
